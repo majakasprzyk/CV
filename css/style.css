@@ -1,7 +1,7 @@
 body {
   background-color: #f5f7fa;
   padding: 40px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .container {
@@ -171,6 +171,7 @@ body {
 }
 
 .contacts-link {
+  font-size: 18px;
   opacity: 0.6;
   color: #ffffff;
   text-decoration: none;
@@ -192,11 +193,11 @@ body {
   text-transform: uppercase;
   font-size: 12px;
   font-weight: bold;
-  box-shadow: 0px 0px 13px 1px rgba(255,107,8,0.4);
+  box-shadow: 0px 0px 13px 1px rgba(255, 107, 8, 0.4);
 }
 
 .widget-link:hover {
-  box-shadow: 0px 6px 32px 1px rgba(255,107,8,0.92);
+  box-shadow: 0px 6px 32px 1px rgba(255, 107, 8, 0.92);
 }
 
 .widget:hover {
